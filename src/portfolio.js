@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "Dynamic full-stack developer passionate about creating sustainable tech solutions, using end-to-end expertise to drive transformative outcomes.",
   resumeLink:
-    "https://shorturl.at/mtgl6",
+    "https://shorturl.at/TZuTD",
   portfolio_repository: "https://github.com/AayushiAhlawat/masterPortfolio",
   githubProfile: "https://github.com/AayushiAhlawat",
 };
@@ -402,6 +402,15 @@ const degrees = {
 const certifications = {
   certifications: [
     {
+      title: "AWS Certified Developer - Associate",
+      subtitle: "- AWS",
+      logo_path: "download.png",
+      certificate_link:
+        "",
+      alt_name: "aws",
+      color_code: "#b8c7ec",
+    },
+    {
       title: "Full Stack Development",
       subtitle: "- Udemy",
       logo_path: "full_stack.png",
@@ -438,22 +447,13 @@ const certifications = {
       color_code: "#b8c7ec",
     },
     {
-      title: "HTML5 Programming",
-      subtitle: "- NIIT",
-      logo_path: "html.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1hHZAUGH0RBlPmwdlq7fOt53KbLkbf00R/view?usp=drive_link",
-      alt_name: "NIIT",
-      color_code: "#8bd9ea",
-    },
-    {
       title: "Programming in Java",
       subtitle: "- NIIT",
       logo_path: "java_logo.png",
       certificate_link:
         "https://drive.google.com/file/d/1VTVzCvn7KDaacq2XCXSrJKjn4BbY96gg/view?usp=drive_link",
       alt_name: "NIIT",
-      color_code: "#b8c7ec",
+      color_code: "#8bd9ea",
     },
   ],
 };
@@ -463,7 +463,7 @@ const experience = {
   title: "Work Experience",
   //subtitle: "Work, Internship and Volunteership",
   description:
-    "I have over 4 years of experience as a Software Engineer, where I've focused on developing scalable solutions and delivering high-quality software. My work includes designing RESTful APIs, building microservices, and enhancing web applications using Python, Node.js, Java, Spring Boot, and ReactJS.",
+    "I am a Software Engineer with 3+ years of experience in backend and full-stack development, specializing in Python, Java, and Node.js. Skilled in building scalable APIs, microservices, and AI-driven applications. Experienced with PostgreSQL, Redis, AWS, Docker, and Kubernetes, with a strong focus on problem-solving, performance optimization, and Agile collaboration.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -471,14 +471,14 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Associate Data Engineer",
+          title: "Software Engineer",
           company: "DataGurus LLC",
           company_url: "https://datagurus.org/",
           logo_path: "datagurus.png",
           duration: "September 2024 - Present",
           location: "Raleigh, NC, United States",
           description:
-            "Developed Python web scraping scripts, cleaned 500K+ rows of data with 99% accuracy, and built a Node.js and Redis-based cart service with PostgreSQL, improving session data retrieval by 30%. Created a responsive React front-end and collaborated with teams to align technical solutions with business needs.",
+            "Engineered a Retrieval-Augmented Generation (RAG) model using Python, LangChain, and PostgreSQL to enhance AI-driven decision-making with high-quality data.",
           color: "#0879bf",
         },
         {
@@ -511,18 +511,18 @@ const experience = {
           duration: "November 2020 - April 2022",
           location: "Delhi, India",
           description:
-            "Created RESTful APIs for the Inventory Adapter, improving automation and deployment. Led microservices with Java Spring Boot and Angular 10, boosting user engagement. Customized Salesforce for better data accuracy. Resolved network issues with VMware, enhanced performance, and streamlined migrations with Docker and Kubernetes. Designed responsive web pages using HTML5, CSS, JavaScript, and AJAX.",
+            "Developed an automated batch processing system using Salesforce, Apache Airflow, AWS S3, Lambda, EC2, and RDS to streamline data transformation, improve accuracy, and enhance scalability.",
             color: "#0879bf",
         },
         {
-          title: "Software Developer",
+          title: "Software Developer Intern",
           company: "NIIT Technologies",
           company_url: "https://www.niit.com/en/learning-outsourcing/",
           logo_path: "niit.png",
-          duration: "August 2018 - July 2020",
+          duration: "July 2018 - July 2020",
           location: "Delhi, India",
           description:
-            "Developed enterprise applications using Java/J2EE, optimized with design patterns like DAO and MVC. Improved database efficiency in Oracle DB and managed deployments using Visual Studio Code and Git. Collaborated with teams to align technical solutions with business requirements.",
+            "Developed secure REST APIs and responsive UI components using Java, Spring Boot, React, and JWT authentication, optimizing performance, user engagement, and deployment efficiency.",
             color: "#0879bf",
         },
       ],
