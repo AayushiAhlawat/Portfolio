@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "Dynamic full-stack developer passionate about creating sustainable tech solutions, using end-to-end expertise to drive transformative outcomes.",
   resumeLink:
-    "https://shorturl.at/TZuTD",
+    "https://drive.google.com/file/d/1Pdo27I_SLvO728JAmNEjKhaG4il4qj_C/view?usp=drive_link",
   portfolio_repository: "https://github.com/AayushiAhlawat/masterPortfolio",
   githubProfile: "https://github.com/AayushiAhlawat",
 };
@@ -406,7 +406,7 @@ const certifications = {
       subtitle: "- AWS",
       logo_path: "download.png",
       certificate_link:
-        "",
+        "https://drive.google.com/file/d/1ZkAidKHZNyLocsdGc6Fw7MAlDLoHoMiU/view?usp=sharing",
       alt_name: "aws",
       color_code: "#b8c7ec",
     },
@@ -475,54 +475,21 @@ const experience = {
           company: "DataGurus LLC",
           company_url: "https://datagurus.org/",
           logo_path: "datagurus.png",
-          duration: "September 2024 - Present",
+          duration: "May 2023 - Present",
           location: "Raleigh, NC, United States",
           description:
-            "Engineered a Retrieval-Augmented Generation (RAG) model using Python, LangChain, and PostgreSQL to enhance AI-driven decision-making with high-quality data.",
+            "Developed an AI-powered data aggregator leveraging APIs to centralize information, eliminating the need for users to navigate multiple portals.",
           color: "#0879bf",
         },
         {
-          title: "Research Assistant",
-          company: "State University of New York at Binghamton",
-          company_url: "https://www.binghamton.edu/",
-          logo_path: "bu_logo.png",
-          duration: "September 2024 - Present",
-          location: "Raleigh, NC, United States",
-          description:
-            "Conducted research on personality traits in digital activism using Python and machine learning to analyze online engagement in movements like #MeToo, and developed strategies to prevent online harassment and enhance support for activists.",
-          color: "#0879bf",
-        },
-        {
-          title: "Software Engineering Fellow",
-          company: "Headstarter AI",
-          company_url: "https://headstarter.co/",
-          logo_path: "headstarter.jpeg",
-          duration: "July 2024 - September 2024",
-          location: "Raleigh, NC, United States",
-          description:
-            "Designed AI apps and APIs using NextJS and OpenAI, achieving high accuracy and reaching thousands of users. Lead projects from design to deployment, mentor fellow engineers, and receive coaching from industry experts on Agile, CI/CD, and microservices.",
-          color: "#0879bf",
-        },
-        {
-          title: "Software Engineer",
+          title: "Data Analyst",
           company: "Infosys Limited",
           company_url: "https://www.infosys.com/",
           logo_path: "infosys.jpg",
           duration: "November 2020 - April 2022",
-          location: "Delhi, India",
+          location: "Pune, India",
           description:
-            "Developed an automated batch processing system using Salesforce, Apache Airflow, AWS S3, Lambda, EC2, and RDS to streamline data transformation, improve accuracy, and enhance scalability.",
-            color: "#0879bf",
-        },
-        {
-          title: "Software Developer Intern",
-          company: "NIIT Technologies",
-          company_url: "https://www.niit.com/en/learning-outsourcing/",
-          logo_path: "niit.png",
-          duration: "July 2018 - July 2020",
-          location: "Delhi, India",
-          description:
-            "Developed secure REST APIs and responsive UI components using Java, Spring Boot, React, and JWT authentication, optimizing performance, user engagement, and deployment efficiency.",
+            "Migrated client infrastructure to a modern server farm by developing Python and Shell scripts for comprehensive data inventory, validity, and quality checks, followed by seamless traﬃc redirection to the new environment.",
             color: "#0879bf",
         },
       ],
