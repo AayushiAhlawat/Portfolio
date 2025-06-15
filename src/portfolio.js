@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "Dynamic full-stack developer passionate about creating sustainable tech solutions, using end-to-end expertise to drive transformative outcomes.",
   resumeLink:
-    "https://drive.google.com/file/d/1Pdo27I_SLvO728JAmNEjKhaG4il4qj_C/view?usp=drive_link",
+    "https://drive.google.com/file/d/1evem29BZBTvL3QAWQ3brFHN5lifExhpA/view?usp=drive_link",
   portfolio_repository: "https://github.com/AayushiAhlawat/masterPortfolio",
   githubProfile: "https://github.com/AayushiAhlawat",
 };
@@ -471,11 +471,22 @@ const experience = {
       work: true,
       experiences: [
         {
+          title: "Full Stack Developer",
+          company: "AdFury.ai",
+          company_url: "https://www.adfury.ai/",
+          logo_path: "adfury.jpeg",
+          duration: "June 2025 - Present",
+          location: "Rogers, AR, United States",
+          description:
+            "",
+          color: "#0879bf",
+        },
+        {
           title: "Software Engineer",
           company: "DataGurus LLC",
           company_url: "https://datagurus.org/",
           logo_path: "datagurus.png",
-          duration: "May 2023 - Present",
+          duration: "May 2023 - June 2025",
           location: "Raleigh, NC, United States",
           description:
             "Developed an AI-powered data aggregator leveraging APIs to centralize information, eliminating the need for users to navigate multiple portals.",
@@ -653,14 +664,14 @@ const contactPageData = {
   // },
   addressSection: {
     title: "Address",
-    subtitle: "Wake Forest, NC, USA 27587",
-    locality: "Wake Forest",
+    subtitle: "Bentonville, AR, USA 72713",
+    locality: "Bentonville",
     country: "USA",
-    region: "North Carolina",
-    postalCode: "27587",
+    region: "Arkansas",
+    postalCode: "72713",
     streetAddress: "",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/zCw14sTWCNjPai4g7",
+    location_map_link: "https://maps.app.goo.gl/gqFDEAGbdfeH8dRq7",
   },
   phoneSection: {
     title: "",
