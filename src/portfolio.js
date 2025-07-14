@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "Dynamic full-stack developer passionate about creating sustainable tech solutions, using end-to-end expertise to drive transformative outcomes.",
   resumeLink:
-    "https://drive.google.com/file/d/1evem29BZBTvL3QAWQ3brFHN5lifExhpA/view?usp=drive_link",
+    "https://drive.google.com/file/d/1qs2YPnIXSmzST7MnhObGvZW6ZQGDETul/view?usp=drive_link",
   portfolio_repository: "https://github.com/AayushiAhlawat/masterPortfolio",
   githubProfile: "https://github.com/AayushiAhlawat",
 };
@@ -486,7 +486,7 @@ const experience = {
           company: "DataGurus LLC",
           company_url: "https://datagurus.org/",
           logo_path: "datagurus.png",
-          duration: "May 2023 - June 2025",
+          duration: "September 2024 - June 2025",
           location: "Raleigh, NC, United States",
           description:
             "Developed an AI-powered data aggregator leveraging APIs to centralize information, eliminating the need for users to navigate multiple portals.",
